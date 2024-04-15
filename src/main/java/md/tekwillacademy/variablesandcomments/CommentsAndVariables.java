@@ -46,20 +46,7 @@ public class CommentsAndVariables {
         System.out.println("the value for Double: "+variabilaDouble1);
         double variabilaDouble2=1478787878787878787.8d;
         System.out.println("the value for Double: "+variabilaDouble2);
-        // Variabile de referinta
-
-        String obiectString;
-        obiectString = new String();
-
-
-
-
-
-
-
-
-
-    }
+        }
 
 
 

@@ -1,9 +1,5 @@
 package md.tekwillacademy.variablesandcomments;
 
-import jdk.jshell.execution.Util;
-
-import java.lang.reflect.Array;
-
 public class CommentsAndVariables {
     public static void main(String[] args) {
         boolean variabilaBoolean1;

@@ -4,7 +4,7 @@ public class ManageAutoService {
     public static void main(String[] args) {
 
         Garage masterLuxObject = new Garage("Str. Calea orheiului 147", 3, 220);
-        System.out.println(masterLuxObject.address);
+        System.out.println(masterLuxObject.numberOfSpots);
 
         Garage autoLux = new Garage();
         autoLux.address = "Str. Stefan cel Mare 150";

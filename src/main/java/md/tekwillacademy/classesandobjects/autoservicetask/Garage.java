@@ -6,7 +6,7 @@ public class Garage {
     double dimensionSqFt;
 
 //definire constructor
-    public Garage(String addressUsedForInitialization, int numberOfSpots, double dimensionSqFt){
+    public Garage(String addressUsedForInitialization, int numberOfSpots, double dimensionSqFt ){
         address = addressUsedForInitialization;
         this.numberOfSpots = numberOfSpots;
         this.dimensionSqFt = dimensionSqFt;
